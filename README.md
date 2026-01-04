@@ -266,6 +266,3 @@ Interactive API documentation is available at:
 
 [Add contribution guidelines here]
 
-## Support
-
-For detailed project knowledge and architecture documentation, see [PROJECT_KNOWLEDGE.md](PROJECT_KNOWLEDGE.md).
